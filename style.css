@@ -1,0 +1,27 @@
+#map {
+    width: 1000px;
+    height: 600px;
+}
+
+.circle-icon{
+    width: 30px !important;
+    height: 30px !important;
+    border-radius: 18px;
+    border: 2px solid #025c0e88;
+    text-align: center;
+    color: #025c0e88;
+    background-color: #bdf3c4ef;
+    font-size: 16px;
+  }
+
+/* for when psi is high */
+.circle-icon2{
+    width: 30px !important;
+    height: 30px !important;
+    border-radius: 18px;
+    border: 2px solid #ff020250;
+    text-align: center;
+    color: #ff020250;
+    background-color: #f5bdb9ef;
+    font-size: 16px;
+  }
